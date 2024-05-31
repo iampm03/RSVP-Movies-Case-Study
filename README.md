@@ -3,7 +3,7 @@ Project Overview:
 
 This project involves an in-depth SQL analysis of the RSVP Movies dataset. The goal is to explore and analyze the dataset to gain insights into movie trends, box office performance, and other key metrics using SQL queries.
 
-Dataset
+# Dataset:
 The dataset includes various tables related to movies, such as:
 
 movies: Details about each movie (Movie ID, Title, Genre, Release Date, etc.)
@@ -16,15 +16,13 @@ directors: Information about movie directors (Director ID, Name, Movie ID)
 
 actors: Information about actors (Actor ID, Name, Movie ID)
 
-Project Structure:
+# Project Structure:
 
 queries: Contains SQL scripts for various analyses
 
-data: (Optional) Contains sample data files or links to data sources
-
 results: Contains results of the analyses, such as charts, tables, and summary reports
 
-Key Analyses
+# Key Analysis:
 
 Movie Trends Analysis:
 Identify the most popular genres over the years.
