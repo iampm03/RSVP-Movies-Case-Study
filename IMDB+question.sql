@@ -1,14 +1,4 @@
-
-/* Now that you have imported the data sets, let’s explore some of the tables. 
- To begin with, it is beneficial to know the shape of the tables and whether any column has null values.
- Further in this segment, you will take a look at 'movies' and 'genre' tables.*/
-
-
-
 -- Segment 1:
-
-
-
 
 -- Q1. Find the total number of rows in each table of the schema?
 -- Type your code below:
